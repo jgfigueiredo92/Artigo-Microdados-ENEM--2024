@@ -31,3 +31,13 @@ Devido ao tamanho censitário da base de dados do Enem (arquivos de múltiplos g
 BASE = r"./DADOS"  # Exemplo de caminho relativo, ou caminho absoluto local
 CAMINHO_ITENS = os.path.join(BASE, "ITENS_PROVA_2024.csv")
 CAMINHO_RESULTADOS = os.path.join(BASE, "RESULTADOS_2024.csv")
+
+---
+
+4. **Bases Consolidadas Disponíveis neste Repositório**
+
+Para consulta direta sem necessidade de reprocessar a base bruta do Inep, este repositório disponibiliza as tabelas finais geradas:
+
+* `acerto_biologia_por_uf_CORRIGIDO.csv`: Percentual médio de acertos em Biologia e nota padronizada de Ciências da Natureza nas 27 Unidades da Federação.
+* `acerto_biologia_por_uf_habilidade_CORRIGIDO.csv`: Desempenho detalhado cruzando cada Unidade da Federação com as 11 habilidades da Matriz de Referência.
+* `gap_regional_habilidades_biologia_CORRIGIDO.csv`: Ranking da Amplitude de Gap Regional ordenado pela maior disparidade territorial em pontos percentuais.
