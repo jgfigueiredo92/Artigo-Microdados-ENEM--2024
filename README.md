@@ -34,7 +34,7 @@ CAMINHO_RESULTADOS = os.path.join(BASE, "RESULTADOS_2024.csv")
 
 ---
 
-4. **Bases Consolidadas Disponíveis neste Repositório**
+## 3. Bases Consolidadas Disponíveis neste Repositório
 
 Para consulta direta sem necessidade de reprocessar a base bruta do Inep, este repositório disponibiliza as tabelas finais geradas:
 
