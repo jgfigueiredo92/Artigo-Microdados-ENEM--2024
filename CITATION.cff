@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software, rotina computacional ou os dados agregados, por favor cite conforme os metadados abaixo."
+authors:
+  - family-names: "Figueiredo"
+    given-names: "João Gabriel da Silva"
+title: "Biologia no Enem: Competências Regionais e Desafios Estruturais Nacionais"
+version: 1.0.1
+doi: 10.5281/zenodo.23992872
+date-released: 2026-11-05
+url: "https://github.com/jgfigueiredo92/BIOLOGIA-NO-ENEM-COMPETENCIAS-REGIONAIS-E-DESAFIOS-ESTRUTURAIS-NACIONAIS.git"
+license: MIT
+keywords:
+  - "enem-2024"
+  - "biologia"
+  - "ciencias-da-natureza"
+  - "microdados"
+  - "inep"
+  - "disparidades-regionais"
+  - "reprodutibilidade"
